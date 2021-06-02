@@ -1,3 +1,4 @@
+/* reseting project */
 *{
     margin: 0;
     padding: 0;
@@ -9,11 +10,11 @@ html,body{
     height: 100%;
 }
 
-
 .parent{
     display: flex;
 }
 
+/* resposivity properties */
 .sidebar{
     width:15%;
     height: 100%;
