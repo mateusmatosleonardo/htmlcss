@@ -1,4 +1,4 @@
-# portifólio
+# portfólio
  simple landing pages, developed in html and css
  
  ### Hello, devs, I present to you some of my projects in html and css 🙂
