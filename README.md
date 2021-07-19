@@ -11,10 +11,6 @@
  * server line
  
  feel free to clone the project 😉
- 
-## Special code for inserting icons
-
-![Special code for inserting icons](https://user-images.githubusercontent.com/73812069/120408175-d84b8900-c324-11eb-8f1f-4288990a8f1e.png)
 
 ## Support
 To report a bug or a problem, just send me an email: [m4teusmatos@gmail.com](https://mail.google.com/mail/u/0/?hl=pt-BR#inbox)
